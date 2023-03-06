@@ -1,0 +1,22 @@
+{
+  "name": "inflearn-threejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KDONG1224/inflearn-threejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KDONG1224/inflearn-threejs/issues"
+  },
+  "homepage": "https://github.com/KDONG1224/inflearn-threejs#readme",
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  }
+}
