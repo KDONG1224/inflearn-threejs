@@ -10,7 +10,6 @@
 
 # production
 /build
-/nodejs-crawler
 
 # misc
 .DS_Store
